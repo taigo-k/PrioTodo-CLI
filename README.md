@@ -1,6 +1,9 @@
 # To-Do リスト管理ツール (CLI)
 このプロジェクトは、Pythonのコマンドラインインターフェース（CLI）で動作するシンプルなTo-Doリスト管理ツールです。タスクの追加、優先度付け、表示、および完了（削除）の機能を提供します。
 
+## 📸 デモンストレーション
+![PrioTodo-CLI 実行画面](demo.png)
+
 ## 🚀 機能一覧
 * **タスクの追加**: タスク名と優先度（高 / 中 / 低）を指定してタスクを追加できます。
 * **優先度ソート**: タスク一覧表示時、自動的に優先度順（高 → 中 → 低）に並び替えて表示します。
@@ -28,6 +31,9 @@
 ## To-Do List Management Tool (CLI)
 
 This project is a simple To-Do list management tool implemented in Python, designed to be run via the Command Line Interface (CLI). It provides core functionalities for adding, prioritizing, viewing, and completing (deleting) tasks.
+
+## 📸 Demonstration
+![PrioTodo-CLI 実行画面](demo.png)
 
 ### 🚀 Key Features
 * **Task Addition**: Users can add a task by specifying the task name and its priority (High / Medium / Low).
