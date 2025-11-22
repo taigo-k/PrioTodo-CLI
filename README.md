@@ -45,9 +45,10 @@
    python todo_app.py
 
 
+---
 ----- **English Version** -----
 
-## To-Do List Management Tool (CLI)
+# To-Do List Management Tool (CLI)
 
 This project is a simple To-Do list management tool implemented in Python, designed to be run via the Command Line Interface (CLI). It provides core functionalities for adding, prioritizing, viewing, and completing (deleting) tasks.
 
